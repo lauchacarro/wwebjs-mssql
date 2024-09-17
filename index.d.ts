@@ -1,0 +1,1 @@
+export const MssqlStore: typeof import("./src/MssqlStore");
