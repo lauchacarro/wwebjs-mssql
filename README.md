@@ -6,7 +6,7 @@ Use MssqlStore to save your WhatsApp MultiDevice session on a SQL Server Databas
 ## Quick Links
 
 * [Guide / Getting Started](https://wwebjs.dev/guide/authentication.html)
-* [GitHub](https://github.com/paulvl/wwebjs-mysql)
+* [GitHub](https://github.com/lauchacarro/wwebjs-mssql)
 * [npm](https://www.npmjs.com/package/wwebjs-mssql)
 
 ## Installation
